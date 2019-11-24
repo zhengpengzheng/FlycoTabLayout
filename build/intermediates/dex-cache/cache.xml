@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/FlycoTabLayout/FlycoTabLayout_Lib/2.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bb391aa27a3b9200db59da5c24d01b1d9766245">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/FlycoTabLayout-FlycoTabLayout_Lib-2.1.2_74f45d46beb5110b4f61d1bdfb43b99e5753877e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_2535803f26cf1697ff3acb2336cc20f950d2d10c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_dc92f7a255d48ddbaa5f8838f7e928ba868acd26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_75b59272c08b3875854a2c0be3d6907c62c460a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_85a477899784e46e4eb59d27f25f874453a54a07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_445b68a83572086a66cfcc6acd4e9d2e3208f5d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_de9b77797e8fd0a40a9133076b3e76d4342a174a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_ea6813f2b39f2fca55febe7e66331730590205b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_430fa265bf8a5c7baf9030b8af88dd83253d876b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/FlycoTabLayout-master/FlycoTabLayout_Lib/2.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bb391aa27a3b9200db59da5c24d01b1d9766245">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/FlycoTabLayout-master-FlycoTabLayout_Lib-2.1.2_5fbbf66352bc454dc73cd2f9bc029aa787a71903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_1027ef48631ad242fd893df057f827509c6f5f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_7c2f49b9ac0c3d2d656e6e5f9727aa67e6bde301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_1c0ebf795fc6aaab75a247f3cb69221938786cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_95542f425f9079a91bcaa19d2363d6a5bd8c874d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_b6c358bc6440962579aae1c88b8cdf3ea766fa77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_9757a312f00d2c796964f75ff4ff9fe554160627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_6a253ae094d288f4c69f3b040aeb217baee278df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_16cd1a1d44183e0d1cc3a791dfdd7f5fb25b74ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_d667f672c2ade0bae16687791c1e88e0f882fd5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_13c7f234afa70761122a34ef511bbd9d67c41e0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhengpeng/Downloads/FlycoTabLayout-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_bd4df94c5bc6a6d361d0e944a69be9d2a0f8639e.jar" />
+    </item>
+
+</items>
