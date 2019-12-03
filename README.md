@@ -2,7 +2,7 @@
 
 使用     compile 'com.github.zhengpengzheng:FlycoTabLayout:1.0'
 
-
+app:tl_textSelectSize="21sp"
 
 
 
